@@ -1,5 +1,8 @@
 #include "shell.h"
-
+/**
+ * read_line - function which prompts user for input
+ * Return: character
+ */
 char *read_line(void)
 {
 char *line = NULL;

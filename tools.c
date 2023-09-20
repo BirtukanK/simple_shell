@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * freearrayofstring - function to free locations
+ * freearray2D - function to free locations
  * @arr: an array to free
  * Return: void
  */

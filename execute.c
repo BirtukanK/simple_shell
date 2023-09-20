@@ -24,5 +24,5 @@ else
 waitpid(child, &status, 0);
 freearray2D(command);
 }
-return(WEXITSTATUS(status));
+return (WEXITSTATUS(status));
 }
