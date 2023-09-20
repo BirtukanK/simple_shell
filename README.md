@@ -1,7 +1,8 @@
-#Simple Shell
+# Simple Shell
 </br>
-#Requirements
-##General
+# Requirements
+</br>
+## General
 * Allowed editors: vi, vim, emacs
 * All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 * All your files should end with a new line
@@ -13,3 +14,8 @@
 * Use system calls only when you need to (why?)
 * Write a README with the description of your project
 * You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. Format, see Docker
+</br>
+# Authors
+</br>
+* Birtukan Kuma
+* Haymanot Solomon
